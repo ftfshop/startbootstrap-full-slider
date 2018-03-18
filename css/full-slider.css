@@ -13,3 +13,6 @@
   -o-background-size: cover;
   background-size: cover;
 }
+
+h3 { font-size: 5vh; }
+.nobr { white-space: nowrap; }
